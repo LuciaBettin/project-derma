@@ -1,5 +1,6 @@
 ## Proyecto Dermatologico
-Nombre: Daniela Lucia Ramos Betin
+Nombre: Daniela Lucia Ramos Betin.
+
 Bienvenidos al repositorio del Proyecto Dermatologico! Aquí encontrarás el código fuente y los recursos relacionados con nuestra página web para la detección de anomalías en la piel. La utiliza un modelo de red neuronal tipo mobilenet_v2. 
 
 ## Descripción del proyecto
