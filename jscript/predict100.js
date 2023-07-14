@@ -40,7 +40,7 @@ $("#image-selector").change(function () {
 let model;
 (async function () {
 	
-	model = await tf.loadModel('model_kerasnative_v4o/model.json');
+	model = await tf.loadModel('model_kerasnative_v41/model.json');
 	$("#selected-image").attr("src", "assets/samplepic.jpg")
 	
 	
